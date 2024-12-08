@@ -22,8 +22,8 @@
 <body>
     <header>
         <div class="container_header">
-            <img class="logo" src="images/logo.png" alt="Логотип">
-            <img class="contacts" src="images/contacts.png" alt="Контакты">
+            <img class="logo" src="logo.png" alt="Логотип">
+            <img class="contacts" src="contacts.png" alt="Контакты">
             <div class="navi">
                 <a class="nav_link" href="about_biofiltre/index.html">О биофильтре</a>
                 <a class="nav_link" href="about_company/index.html">О компании</a>
@@ -36,12 +36,12 @@
     </header>
     <div class="container1">
         <div class="photo">
-            <img class="bg" src="images/background.png" alt="Фон">
+            <img class="bg" src="background.png" alt="Фон">
             <div class="text1">Настоящий Биофильтр</div>
             <div class="text2">Проект Михайлова</div>
             <div class="text3">Красота и безмятежность лотоса на водной глади</div>
-            <a class="btn1" href="about_biofiltre/index.html" src="images/button1.png"></a>
-            <a class="btn2" href="about_biofiltre/index.html" src="images/ctrelki.png"></a>
+            <a class="btn1" href="about_biofiltre/index.html" src="button1.png"></a>
+            <a class="btn2" href="about_biofiltre/index.html" src="ctrelki.png"></a>
         </div>
     </div>
     <div class="container2">
@@ -63,10 +63,10 @@
                 вас от возможных поломок и протечек. Всего один приварной <br>
                 штуцер для подключения подающего шлага.
             </p>
-            <img class="photo_info1" src="images/info1.png"></a>
+            <img class="photo_info1" src="info1.png"></a>
         </div>
         <div class="info2">
-            <img class="photo_info2" src="images/info2.png"></a>
+            <img class="photo_info2" src="info2.png"></a>
             <p class="text6">В биофильтре нет сливных отверстий, что делает его более <br>
                 надежным и удобным при монтаже. Сливы здесь просто не <br>
                 нужны. В фильтре не скапливается грязь и не цветёт губка, так <br>
@@ -83,14 +83,14 @@
         </div>
         <div class="container3">
             <div class="info3">
-                <img class="photo_info3" src="images/photo1.png">
+                <img class="photo_info3" src="photo1.png">
                 <h3 class="text8">Не дорогая эксплуатация</h3>
                 <h4 class="text9">Нет дорогих расходных <br>
                     материалов. Нет наполнитель <br>
                     требующих частой замены.</h4>
             </div>
             <div class="info4">
-                <img class="photo_info4" src="images/photo2.png">
+                <img class="photo_info4" src="photo2.png">
                 <h3 class="text8">Долговечность</h3>
                 <h4 class="text9">Нет энергоемкого <br>
                     оборудования. Нет причин <br>
@@ -99,14 +99,14 @@
                     трудоемкого обслуживания.</h4>
             </div>
             <div class="info5">
-                <img class="photo_info5" src="images/photo3.png">
+                <img class="photo_info5" src="photo3.png">
                 <h3 class="text8">УФ-лампа</h3>
                 <h4 class="text9">Внутри фильтра, в отдельной <br>
                     камере, установлена УФ-<br>
                     лампа, открытого свечения.</h4>
             </div>
             <div class="info6">
-                <img class="photo_info6" src="images/photo4.png">
+                <img class="photo_info6" src="photo4.png">
                 <h3 class="text8">Надёжность</h3>
                 <h4 class="text9">Настоящий Биофильтр, сделан <br>
                     из прочной, надежной <br>
@@ -122,14 +122,14 @@
             <h1>Принцип работы</h1>
         </div>
         <div class="container_photo">
-            <img class="photo5" src="images/1.png">
-            <img class="photo6" src="images/2.png">
-            <img class="photo7" src="images/3.png">
-            <img class="photo8" src="images/4.png">
-            <img class="photo9" src="images/5.png">
-            <img class="photo10" src="images/6.png">
-            <img class="photo11" src="images/7.png">
-            <img class="photo12" src="images/8.png">
+            <img class="photo5" src="1.png">
+            <img class="photo6" src="2.png">
+            <img class="photo7" src="3.png">
+            <img class="photo8" src="4.png">
+            <img class="photo9" src="5.png">
+            <img class="photo10" src="6.png">
+            <img class="photo11" src="7.png">
+            <img class="photo12" src="8.png">
         </div>
     </div>
     <div class="container4">
@@ -137,8 +137,8 @@
             <h1>Комплектация</h1>
         </div>
         <div class="container_complect">
-            <img class="photo13" src="images/9.png">
-            <img class="photo14" src="images/10.png">
+            <img class="photo13" src="9.png">
+            <img class="photo14" src="10.png">
         </div>
     </div>
     <div class="container5">
@@ -146,9 +146,9 @@
             <h1>Запуск и консервация биофильтра, контроль работы</h1>
         </div>
         <div class="container_btn">
-            <a class="btn3" href="about_biofiltre/index.html" src="images/Button2.png"></a>
-            <a class="btn4" href="about_biofiltre/index.html" src="images/Button4.png"></a>
-            <a class="btn5" href="about_biofiltre/index.html" src="images/Button3.png"></a>
+            <a class="btn3" href="about_biofiltre/index.html" src="Button2.png"></a>
+            <a class="btn4" href="about_biofiltre/index.html" src="Button4.png"></a>
+            <a class="btn5" href="about_biofiltre/index.html" src="Button3.png"></a>
         </div>
         <div class="container_info">
             <div class="list">
@@ -169,9 +169,9 @@
                     <li>Включите УФ-фильтр.</li>
                 </ul>
             </div>
-            <img class="photo15" src="images/info3.png">
+            <img class="photo15" src="info3.png">
         </div>
-        <img class="photo16" src="images/attantion.png">
+        <img class="photo16" src="attantion.png">
     </div>
     <div class="container6">
         <div class="text7">
@@ -193,7 +193,7 @@
                     Промойте. Если есть известковый налет, удалите его с<br>
                     помощью лимонной кислоты.</li>
             </ul>
-            <img class="photo15" src="images/info4.png">
+            <img class="photo15" src="info4.png">
         </div>
     </div>
     <div class="container7">
@@ -216,11 +216,11 @@
                 подходит для реализации новых принципов формирования <br>
                 материально-технической и кадровой базы.
             </p>
-            <img class="photo17" src="images/photo777.png">
+            <img class="photo17" src="photo777.png">
         </div>
     </div>
     <div class="container8">
-        <img class="photo18" src="images/photo5.png">
+        <img class="photo18" src="photo5.png">
         <div class="container9">
             <div class="container_ctrelki">
                 <div class="text13">
@@ -229,7 +229,7 @@
                         <font color="#57ADE4">+ СКИММЕР</font>
                     </h1>
                 </div>
-                <a class="btn7" href="about_biofiltre/index.html" src="images/ctrelki2.png"></a>
+                <a class="btn7" href="about_biofiltre/index.html" src="ctrelki2.png"></a>
             </div>
             <div class="container_text">
                 <p class="text14">Использование скиммера в системе очистке водоема является <br>
@@ -251,55 +251,55 @@
                     <p class="text14"><del>250 000 руб.</del></p>
                     <h1 class="text15">249 000 руб.</h1>
                 </div>
-                <a class="btn8" href="about_biofiltre/index.html" src="images/Button.png"></a>
+                <a class="btn8" href="about_biofiltre/index.html" src="Button.png"></a>
             </div>
         </div>
     </div>
     <div class="container10">
         <div class="text16">
             <h1 class="text17">Оборудование и материалы для фильтра</h1>
-            <a class="btn9" href="about_biofiltre/index.html" src="images/ctrelki2.png"></a>
+            <a class="btn9" href="about_biofiltre/index.html" src="ctrelki2.png"></a>
         </div>
         <div class="container_card">
             <div class="card">
-                <img class="photo19" src="images/photo9.png">
+                <img class="photo19" src="photo9.png">
                 <h3 class="text18">Плавающая биозагрузка S800<br>
                     50 литров</h3>
                 <div class="cena">
                     <h3 class="cena1">3 800 руб.</h3>
                     <p><del>10 000 руб.</del></p>
                 </div>
-                <a class="btn10" href="about_biofiltre/index.html" src="images/Button6.png"></a>
+                <a class="btn10" href="about_biofiltre/index.html" src="Button6.png"></a>
             </div>
             <div class="card">
-                <img class="photo19" src="images/photo10.png">
+                <img class="photo19" src="photo10.png">
                 <h3 class="text19">УФ - фильтр 40w<br>
                     20 литров</h3>
                 <div class="cena">
                     <h3 class="cena1">8 100 руб.</h3>
                     <p><del>10 000 руб.</del></p>
                 </div>
-                <a class="btn10" href="about_biofiltre/index.html" src="images/Button6.png"></a>
+                <a class="btn10" href="about_biofiltre/index.html" src="Button6.png"></a>
             </div>
             <div class="card">
-                <img class="photo19" src="images/photo11.png">
+                <img class="photo19" src="photo11.png">
                 <h3 class="text20">Компрессор мембранный<br>
                     15 000 л\ч</h3>
                 <div class="cena">
                     <h3 class="cena1">9 200 руб.</h3>
                     <p><del>10 000 руб.</del></p>
                 </div>
-                <a class="btn10" href="about_biofiltre/index.html" src="images/Button6.png"></a>
+                <a class="btn10" href="about_biofiltre/index.html" src="Button6.png"></a>
             </div>
         </div>
     </div>
     <div class="container11">
-        <img class="bg1" src="images/bg1.png">
+        <img class="bg1" src="bg1.png">
         <div class="container_zakaz">
             <h1 class="text21">Создание водоемов <br>
                 по типовому проекту Михайлова</h1>
             <p class="text22">С установкой собственной фильтрационной системы.</p>
-            <a class="btn11" href="about_biofiltre/index.html" src="images/Buttonn.png"></a>
+            <a class="btn11" href="about_biofiltre/index.html" src="Buttonn.png"></a>
         </div>
     </div>
     <div class="container2">
@@ -321,10 +321,10 @@
                 вас от возможных поломок и протечек. Всего один приварной <br>
                 штуцер для подключения подающего шлага.
             </p>
-            <img class="photo_info1" src="images/info1.png"></a>
+            <img class="photo_info1" src="info1.png"></a>
         </div>
         <div class="info2">
-            <img class="photo_info2" src="images/info2.png"></a>
+            <img class="photo_info2" src="info2.png"></a>
             <p class="text6">В биофильтре нет сливных отверстий, что делает его более <br>
                 надежным и удобным при монтаже. Сливы здесь просто не <br>
                 нужны. В фильтре не скапливается грязь и не цветёт губка, так <br>
@@ -364,11 +364,11 @@
                     </p>
                 </div>
                 <div class="container_btn1">
-                    <a class="btn12" href="about_biofiltre/index.html" src="images/Button8.png"></a>
-                    <a class="btn13" href="about_biofiltre/index.html" src="images/ctrelki2.png"></a>
+                    <a class="btn12" href="about_biofiltre/index.html" src="Button8.png"></a>
+                    <a class="btn13" href="about_biofiltre/index.html" src="ctrelki2.png"></a>
                 </div>
             </div>
-            <img class="photo20" src="images/photo12.png">
+            <img class="photo20" src="photo12.png">
         </div>
     </div>
     <div class="container13">
@@ -376,10 +376,10 @@
             <h1>Акции и спецпредложения</h1>
         </div>
         <div class="cont2">
-            <img class="photo21" src="images/card.png">
-            <img class="photo21" src="images/card1.png">
-            <img class="photo21" src="images/card2.png">
-            <img class="photo21" src="images/card3.png">
+            <img class="photo21" src="card.png">
+            <img class="photo21" src="card1.png">
+            <img class="photo21" src="card2.png">
+            <img class="photo21" src="card3.png">
         </div>
     </div>
     <div class="container13">
@@ -387,8 +387,8 @@
             <h1>Частые вопросы</h1>
         </div>
         <div class="cont_quastion">
-            <img class="quastion" src="images/quastion.png">
-            <a class="btn14" href="about_biofiltre/index.html" src="images/Button15.png"></a>
+            <img class="quastion" src="quastion.png">
+            <a class="btn14" href="about_biofiltre/index.html" src="Button15.png"></a>
         </div>
     </div>
     <div class="container13">
@@ -397,17 +397,17 @@
         </div>
         <div class="cardd">
             <div class="cardd1">
-                <img class="image1" src="images/01.png">
+                <img class="image1" src="01.png">
                 <h3>Заказ</h3>
                 <p class="text28">Заказать систему фильтрации <br>
                     можно на сайте заполнив <br>
                     форму заявки. Вы получите <br>
                     счет на оплату и договор на <br>
                     поставку.</p>
-                <a class="btn15" href="about_biofiltre/index.html" src="images/001.png"></a>
+                <a class="btn15" href="about_biofiltre/index.html" src="001.png"></a>
             </div>
             <div class="cardd2">
-                <img class="image1" src="images/02.png">
+                <img class="image1" src="02.png">
                 <h3>Оплата</h3>
                 <p class="text25">Оплатите счет. Вам придет <br>
                     документ подтверждающий <br>
@@ -415,7 +415,7 @@
                     сроков поставки.</p>
             </div>
             <div class="cardd3">
-                <img class="image1" src="images/03.png">
+                <img class="image1" src="03.png">
                 <h3>Доставка</h3>
                 <p class="text25">В назначенное договором <br>
                     поставки время мы привезем <br>
@@ -424,7 +424,7 @@
                     комплектом поставки.</p>
             </div>
             <div class="cardd4">
-                <img class="image1" src="images/04.png">
+                <img class="image1" src="04.png">
                 <h3>Консультация</h3>
                 <p class="text25">Подробно проконсультируем <br>
                     по:</p>
@@ -444,7 +444,7 @@
         </div>
     </div>
     <div class="container14">
-        <img class="bg2" src="images/bg2.png">
+        <img class="bg2" src="bg2.png">
     </div>
     <div class="container13">
         <div class="text27">
@@ -452,16 +452,16 @@
         </div>
         <div class="cardd">
             <div class="cardd1">
-                <img class="image1" src="images/01.png">
+                <img class="image1" src="01.png">
                 <h3>Заказ</h3>
                 <p class="text28">Заполните заявку на выезд <br>
                     специалиста. Вы получите <br>
                     счет на оплату и договор на<br>
                     оказание услуг.</p>
-                <a class="btn15" href="about_biofiltre/index.html" src="images/001.png"></a>
+                <a class="btn15" href="about_biofiltre/index.html" src="001.png"></a>
             </div>
             <div class="cardd2">
-                <img class="image1" src="images/02.png">
+                <img class="image1" src="02.png">
                 <h3>Оплата</h3>
                 <p class="text25">Оплатите счет. Вам придет <br>
                     документ подтверждающий <br>
@@ -469,7 +469,7 @@
                     и времени выезда.</p>
             </div>
             <div class="cardd3">
-                <img class="image1" src="images/03.png">
+                <img class="image1" src="03.png">
                 <h3>Консультация</h3>
                 <ul>
                     <li>Проведем консультацию в <br>
@@ -488,7 +488,7 @@
                 </ul>
             </div>
             <div class="cardd4">
-                <img class="image1" src="images/04.png">
+                <img class="image1" src="04.png">
                 <h3>Строительство</h3>
                 <p class="text25">После согласования всех <br>
                     деталей проекта, цены, и <br>
@@ -521,12 +521,12 @@
                     <label for="phone"></label>
                     <input type="text" id="name" placeholder="Телефон">
                 </form>
-                <a class="btn16" href="about_biofiltre/index.html" src="images/002.png"></a>
+                <a class="btn16" href="about_biofiltre/index.html" src="002.png"></a>
             </div>
         </div>
     </div>
     <div class="container_carta">
-        <img class="carta" src="images/block.png">
+        <img class="carta" src="block.png">
     </div>
     <footer class="container16">
         <div class="container_footer">
