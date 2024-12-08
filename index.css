@@ -125,7 +125,7 @@ header {
     /* Центрируем кнопку по горизонтали (так же, как text1, text2 и text3) */
     transform: translate(-52%, -50%);
     /* Сдвигаем кнопку для точного центрирования */
-    background-image: url('images/button1.png');
+    background-image: url('button1.png');
     /* Устанавливаем изображение кнопки как фон кнопки (если необходимо)*/
     width: 270px;
     /* Ширина кнопки (можно изменить)*/
@@ -146,7 +146,7 @@ header {
     /* Центрируем кнопку по горизонтали (так же, как text1, text2 и text3) */
     transform: translate(-52%, -50%);
     /* Сдвигаем кнопку для точного центрирования */
-    background-image: url('images/ctrelki.png');
+    background-image: url('ctrelki.png');
     /* Устанавливаем изображение кнопки как фон кнопки (если необходимо)*/
     width: 88px;
     /* Ширина кнопки (можно изменить)*/
@@ -373,7 +373,7 @@ header {
 }
 
 .btn3 {
-    background-image: url('images/Button2.png');
+    background-image: url('Button2.png');
     width: 185px;
     height: 42px;
 }
@@ -381,11 +381,11 @@ header {
 .btn4 {
     width: 228px;
     height: 42px;
-    background-image: url('images/Button4.png');
+    background-image: url('Button4.png');
 }
 
 .btn5 {
-    background-image: url('images/Button3.png');
+    background-image: url('Button3.png');
     width: 292px;
     height: 42px;
 }
@@ -487,7 +487,7 @@ li {
 
 
 .btn7 {
-    background-image: url('images/ctrelki2.png');
+    background-image: url('ctrelki2.png');
     width: 88px;
     height: 34px;
     border: none;
@@ -497,7 +497,7 @@ li {
 }
 
 .btn8 {
-    background-image: url('images/Button.png');
+    background-image: url('Button.png');
     width: 342px;
     height: 62px;
     border: none;
@@ -560,7 +560,7 @@ li {
 }
 
 .btn9 {
-    background-image: url('images/ctrelki2.png');
+    background-image: url('ctrelki2.png');
     width: 88px;
     height: 34px;
     border: none;
@@ -578,7 +578,7 @@ li {
 }
 
 .btn10 {
-    background-image: url('images/Button6.png');
+    background-image: url('Button6.png');
     width: 330px;
     height: 62px;
     border: none;
@@ -653,7 +653,7 @@ li {
 }
 
 .btn11 {
-    background-image: url('images/Buttonn.png');
+    background-image: url('Buttonn.png');
     width: 270px;
     height: 62px;
     border: none;
@@ -713,7 +713,7 @@ li {
 }
 
 .btn12{
-    background-image: url('images/Button8.png');
+    background-image: url('Button8.png');
     width: 195px;
     height: 62px;
     border: none;
@@ -722,7 +722,7 @@ li {
 }
 
 .btn13{
-    background-image: url('images/ctrelki2.png');
+    background-image: url('ctrelki2.png');
     border: none;
     width: 88px;
     height: 34px;
@@ -779,7 +779,7 @@ li {
 }
 
 .btn14{
-    background-image: url('images/Button15.png');
+    background-image: url('Button15.png');
     border: none;
     width: 172px;
     height: 62px;
@@ -808,7 +808,7 @@ li {
 }
 
 .btn15{
-    background-image: url('images/001.png');
+    background-image: url('001.png');
     border: none;
     width: 270px;
     height: 62px;
@@ -849,7 +849,7 @@ li {
 }
 
 .container_contact{
-    background-image: url('images/Pop.png');
+    background-image: url('Pop.png');
     width: 1200px;
     height: 260px;
     display: flex;
@@ -880,7 +880,7 @@ li {
 }
 
 .btn16{
-    background-image: url('images/002.png');
+    background-image: url('002.png');
     border: none;
     width: 250px;
     height: 62px;
