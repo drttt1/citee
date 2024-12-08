@@ -25,7 +25,7 @@
             <img class="logo" src="logo.png" alt="Логотип">
             <img class="contacts" src="contacts.png" alt="Контакты">
             <div class="navi">
-                <a class="nav_link" href="about_biofiltre/index.html">О биофильтре</a>
+                <a class="nav_link" href="index.html">О биофильтре</a>
                 <a class="nav_link" href="about_company/index.html">О компании</a>
                 <a class="nav_link" href="equipment/index.html">Оборудование</a>
                 <a class="nav_link" href="creation/index.html">Создание водоёмов</a>
@@ -40,8 +40,8 @@
             <div class="text1">Настоящий Биофильтр</div>
             <div class="text2">Проект Михайлова</div>
             <div class="text3">Красота и безмятежность лотоса на водной глади</div>
-            <a class="btn1" href="about_biofiltre/index.html" src="button1.png"></a>
-            <a class="btn2" href="about_biofiltre/index.html" src="ctrelki.png"></a>
+            <a class="btn1" href="index.html" src="button1.png"></a>
+            <a class="btn2" href="index.html" src="ctrelki.png"></a>
         </div>
     </div>
     <div class="container2">
@@ -146,9 +146,9 @@
             <h1>Запуск и консервация биофильтра, контроль работы</h1>
         </div>
         <div class="container_btn">
-            <a class="btn3" href="about_biofiltre/index.html" src="Button2.png"></a>
-            <a class="btn4" href="about_biofiltre/index.html" src="Button4.png"></a>
-            <a class="btn5" href="about_biofiltre/index.html" src="Button3.png"></a>
+            <a class="btn3" href="index.html" src="Button2.png"></a>
+            <a class="btn4" href="index.html" src="Button4.png"></a>
+            <a class="btn5" href="index.html" src="Button3.png"></a>
         </div>
         <div class="container_info">
             <div class="list">
@@ -229,7 +229,7 @@
                         <font color="#57ADE4">+ СКИММЕР</font>
                     </h1>
                 </div>
-                <a class="btn7" href="about_biofiltre/index.html" src="ctrelki2.png"></a>
+                <a class="btn7" href="index.html" src="ctrelki2.png"></a>
             </div>
             <div class="container_text">
                 <p class="text14">Использование скиммера в системе очистке водоема является <br>
@@ -251,14 +251,14 @@
                     <p class="text14"><del>250 000 руб.</del></p>
                     <h1 class="text15">249 000 руб.</h1>
                 </div>
-                <a class="btn8" href="about_biofiltre/index.html" src="Button.png"></a>
+                <a class="btn8" href="index.html" src="Button.png"></a>
             </div>
         </div>
     </div>
     <div class="container10">
         <div class="text16">
             <h1 class="text17">Оборудование и материалы для фильтра</h1>
-            <a class="btn9" href="about_biofiltre/index.html" src="ctrelki2.png"></a>
+            <a class="btn9" href="index.html" src="ctrelki2.png"></a>
         </div>
         <div class="container_card">
             <div class="card">
@@ -269,7 +269,7 @@
                     <h3 class="cena1">3 800 руб.</h3>
                     <p><del>10 000 руб.</del></p>
                 </div>
-                <a class="btn10" href="about_biofiltre/index.html" src="Button6.png"></a>
+                <a class="btn10" href="index.html" src="Button6.png"></a>
             </div>
             <div class="card">
                 <img class="photo19" src="photo10.png">
@@ -279,7 +279,7 @@
                     <h3 class="cena1">8 100 руб.</h3>
                     <p><del>10 000 руб.</del></p>
                 </div>
-                <a class="btn10" href="about_biofiltre/index.html" src="Button6.png"></a>
+                <a class="btn10" href="index.html" src="Button6.png"></a>
             </div>
             <div class="card">
                 <img class="photo19" src="photo11.png">
@@ -289,7 +289,7 @@
                     <h3 class="cena1">9 200 руб.</h3>
                     <p><del>10 000 руб.</del></p>
                 </div>
-                <a class="btn10" href="about_biofiltre/index.html" src="Button6.png"></a>
+                <a class="btn10" href="index.html" src="Button6.png"></a>
             </div>
         </div>
     </div>
@@ -299,7 +299,7 @@
             <h1 class="text21">Создание водоемов <br>
                 по типовому проекту Михайлова</h1>
             <p class="text22">С установкой собственной фильтрационной системы.</p>
-            <a class="btn11" href="about_biofiltre/index.html" src="Buttonn.png"></a>
+            <a class="btn11" href="index.html" src="Buttonn.png"></a>
         </div>
     </div>
     <div class="container2">
@@ -364,8 +364,8 @@
                     </p>
                 </div>
                 <div class="container_btn1">
-                    <a class="btn12" href="about_biofiltre/index.html" src="Button8.png"></a>
-                    <a class="btn13" href="about_biofiltre/index.html" src="ctrelki2.png"></a>
+                    <a class="btn12" href="index.html" src="Button8.png"></a>
+                    <a class="btn13" href="index.html" src="ctrelki2.png"></a>
                 </div>
             </div>
             <img class="photo20" src="photo12.png">
@@ -388,7 +388,7 @@
         </div>
         <div class="cont_quastion">
             <img class="quastion" src="quastion.png">
-            <a class="btn14" href="about_biofiltre/index.html" src="Button15.png"></a>
+            <a class="btn14" href="index.html" src="Button15.png"></a>
         </div>
     </div>
     <div class="container13">
@@ -404,7 +404,7 @@
                     форму заявки. Вы получите <br>
                     счет на оплату и договор на <br>
                     поставку.</p>
-                <a class="btn15" href="about_biofiltre/index.html" src="001.png"></a>
+                <a class="btn15" href="index.html" src="001.png"></a>
             </div>
             <div class="cardd2">
                 <img class="image1" src="02.png">
@@ -458,7 +458,7 @@
                     специалиста. Вы получите <br>
                     счет на оплату и договор на<br>
                     оказание услуг.</p>
-                <a class="btn15" href="about_biofiltre/index.html" src="001.png"></a>
+                <a class="btn15" href="index.html" src="001.png"></a>
             </div>
             <div class="cardd2">
                 <img class="image1" src="02.png">
@@ -521,7 +521,7 @@
                     <label for="phone"></label>
                     <input type="text" id="name" placeholder="Телефон">
                 </form>
-                <a class="btn16" href="about_biofiltre/index.html" src="002.png"></a>
+                <a class="btn16" href="index.html" src="002.png"></a>
             </div>
         </div>
     </div>
