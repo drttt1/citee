@@ -1,0 +1,939 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body {
+    width: 1920px;
+    height: 142px;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    /* Убираем отступы у body */
+    padding: 0;
+}
+
+/*шапка*/
+header {
+    width: 1920px;
+    height: 142px;
+    position: absolute;
+    width: 100%;
+}
+
+.logo {
+    width: 300px;
+    height: 80px;
+    margin-left: 375px;
+    margin-top: 7px;
+}
+
+.contacts {
+    margin-bottom: 10px;
+    margin-left: 600px;
+    width: 307px;
+    height: 61px;
+}
+
+.navi {
+    height: 42px;
+    background: #57ADE4;
+    display: flex;
+    /* Используем Flexbox */
+    justify-content: center;
+    /* Центрируем элементы по горизонтали */
+    align-items: center;
+    /* Центрируем элементы по вертикали */
+    margin-bottom: 10%;
+}
+
+.nav_link {
+    text-decoration: none;
+    color: #F2F6F6;
+    font-size: 16px;
+    margin: 0 15px;
+}
+
+.nav_link {
+    text-decoration: none;
+    color: #F2F6F6;
+    font-size: 16px;
+    margin: 0 15px;
+}
+
+/*первый блок*/
+.bg {
+    width: 100%;
+    /* Ширина изображения 100% */
+    height: auto;
+    /* Высота автоматически подстраивается по пропорциям */
+    margin-top: 7%;
+}
+
+.text1 {
+    position: absolute;
+    /* Позиционируем текст абсолютно */
+    top: 35%;
+    /* Расположение по вертикали */
+    left: 38%;
+    /* Центрируем текст по горизонтали */
+    transform: translate(-50%, -50%);
+    /* Сдвигаем текст для точного центрирования */
+    font-size: 64px;
+    color: #ffffff;
+    text-align: center;
+    /* Центрируем текст */
+    font-weight: 700;
+}
+
+.text2 {
+    position: absolute;
+    /* Позиционируем текст абсолютно */
+    top: calc(35% + 70px);
+    /* Расположение ниже text1 (70px ниже) */
+    left: 38%;
+    /* Центрируем текст по горизонтали (так же, как text1) */
+    transform: translate(-61%, -50%);
+    /* Сдвигаем текст для точного центрирования */
+    font-size: 64px;
+    /* Размер шрифта для второго текста (можно изменить) */
+    color: #ffffff;
+    text-align: center;
+    /* Центрируем текст */
+    font-weight: 700;
+}
+
+.text3 {
+    position: absolute;
+    /* Позиционируем текст абсолютно */
+    top: calc(35% + 140px);
+    /* Расположение ниже text1 (70px ниже) */
+    left: 38%;
+    /* Центрируем текст по горизонтали (так же, как text1) */
+    transform: translate(-80%, -50%);
+    /* Сдвигаем текст для точного центрирования */
+    font-size: 20px;
+    /* Размер шрифта для второго текста (можно изменить) */
+    color: #ffffff;
+    text-align: center;
+    /* Центрируем текст */
+}
+
+.btn1 {
+    position: absolute;
+    /* Позиционируем кнопку абсолютно */
+    top: calc(40% + 200px);
+    /* Расположение ниже text3 (60px ниже) */
+    left: 25%;
+    /* Центрируем кнопку по горизонтали (так же, как text1, text2 и text3) */
+    transform: translate(-52%, -50%);
+    /* Сдвигаем кнопку для точного центрирования */
+    background-image: url('images/button1.png');
+    /* Устанавливаем изображение кнопки как фон кнопки (если необходимо)*/
+    width: 270px;
+    /* Ширина кнопки (можно изменить)*/
+    height: 62px;
+    /* Высота кнопки (можно изменить)*/
+    border: none;
+    /* Убираем рамку кнопки (если необходимо)*/
+    cursor: pointer;
+    /* Курсор при наведении на кнопку*/
+}
+
+.btn2 {
+    position: absolute;
+    /* Позиционируем кнопку абсолютно */
+    top: calc(77% + 200px);
+    /* Расположение ниже text3 (60px ниже) */
+    left: 20%;
+    /* Центрируем кнопку по горизонтали (так же, как text1, text2 и text3) */
+    transform: translate(-52%, -50%);
+    /* Сдвигаем кнопку для точного центрирования */
+    background-image: url('images/ctrelki.png');
+    /* Устанавливаем изображение кнопки как фон кнопки (если необходимо)*/
+    width: 88px;
+    /* Ширина кнопки (можно изменить)*/
+    height: 34px;
+    /* Высота кнопки (можно изменить)*/
+    border: none;
+    /* Убираем рамку кнопки (если необходимо)*/
+    cursor: pointer;
+    /* Курсор при наведении на кнопку*/
+}
+
+
+/*второй блок*/
+
+.container2 {
+    background-color: #F2F6F6;
+    padding-bottom: 50px;
+}
+
+.text4 {
+    padding-top: 100px;
+    margin-top: 0px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    color: #0C191F;
+}
+
+.text5 {
+    font-size: 18px;
+    color: #556063;
+    text-align: left;
+}
+
+.photo_info1 {
+    width: 570px;
+    height: 350px;
+    margin-left: 40px;
+}
+
+.info1 {
+    display: flex;
+    align-items: flex-start;
+    margin-left: 360px;
+    margin-right: 360px;
+}
+
+.text6 {
+    font-size: 18px;
+    color: #556063;
+    text-align: left;
+    margin-left: 40px;
+}
+
+.photo_info2 {
+    width: 570px;
+    height: 350px;
+}
+
+.info2 {
+    display: flex;
+    align-items: flex-start;
+    margin-left: 360px;
+    margin-right: 360px;
+}
+
+/*третий блок*/
+
+.text7 {
+    padding-top: 100px;
+    margin-top: 0px;
+    text-align: center;
+    color: #0C191F;
+    margin-bottom: 50px;
+}
+
+.photo_info3,
+.photo_info4,
+.photo_info5,
+.photo_info6 {
+    width: auto;
+    /* Ширина изображения (можно изменить) */
+    height: auto;
+    /* Высота изображения (можно изменить) */
+    max-width: 100%;
+    /* Максимальная ширина изображения (можно изменить) */
+}
+
+.info3,
+.info4,
+.info5,
+.info6 {
+    width: calc(25% - 20px);
+    /* Ширина каждого элемента (можно изменить) и отступ между ними */
+    margin-bottom: 20px;
+    /* Отступ снизу между элементами (можно изменить) */
+    text-align: left;
+    /* Центрируем текст внутри каждого элемента (можно изменить) */
+}
+
+.container3 {
+    display: flex;
+    /* Используем Flexbox для размещения элементов в строку */
+    flex-wrap: wrap;
+    /* Позволяем элементам переноситься на новую строку при необходимости */
+    justify-content: space-between;
+    /* Размещаем элементы по краям контейнера */
+    margin-left: 360px;
+    margin-right: 360px;
+    background-color: #F2F6F6;
+}
+
+.text8 {
+    font-size: 20px;
+    color: #556063;
+}
+
+.text9 {
+    font-size: 18px;
+    color: #556063;
+    font-weight: 400;
+}
+
+/*четвертый блок*/
+
+.container4 {
+    background-color: #E9EDED;
+}
+
+.container_photo {
+    display: flex;
+    /* Используем Flexbox для размещения изображений в строку */
+    flex-wrap: wrap;
+    /* Позволяем элементам переноситься на новую строку при необходимости */
+    justify-content: space-between;
+    /* Размещаем элементы по краям контейнера */
+    margin-left: 340px;
+    margin-right: 360px;
+}
+
+.photo5,
+.photo6,
+.photo7,
+.photo8,
+.photo9,
+.photo10,
+.photo11,
+.photo12 {
+    width: auto;
+    /* Каждое изображение будет иметь свою ширину */
+    height: auto;
+    /* Высота изображения автоматически подстраивается по пропорциям */
+    max-width: calc(25% - 10px);
+    /* Максимальная ширина первых четырех изображений (25%) с учетом отступа */
+    margin-bottom: 20px;
+    /* Отступ снизу между изображениями (можно изменить) */
+    margin-left: 20px;
+}
+
+.photo9,
+.photo10,
+.photo11 {
+    max-width: calc(33.33% - 10px);
+    /* Максимальная ширина следующих трех изображений (33.33%) с учетом отступа */
+    height: auto;
+    margin-left: 20px;
+}
+
+.photo12 {
+    max-width: calc(100% - 10px);
+    /* Максимальная ширина последнего изображения (100%) с учетом отступа */
+    margin-bottom: 0;
+    /* Убираем отступ снизу для последнего изображения (если нужно)*/
+    height: auto;
+}
+
+.photo8 {
+    height: 208px;
+}
+
+/*пятый блок*/
+
+.photo13,
+.photo14 {
+    width: auto;
+    height: auto;
+    margin-bottom: 40px;
+}
+
+.container_complect {
+    margin-left: 360px;
+}
+
+.photo14 {
+    margin-left: 40px;
+}
+
+/*шестой блок*/
+
+.container_btn {
+    display: flex;
+    /* Используем Flexbox для размещения кнопок в строку */
+    flex-direction: row;
+    /* Размещаем кнопки в строку */
+    justify-content: center;
+    /* Центрируем кнопки по горизонтали */
+    margin-top: 0px;
+    /* Отступ сверху для контейнера с кнопками (можно изменить)*/
+    margin-bottom: 55px;
+    /* Отступ снизу для контейнера с кнопками (можно изменить)*/
+}
+
+.btn3,
+.btn4,
+.btn5 {
+    border: none;
+    /* Убираем рамку у кнопки*/
+    margin-right: 10px;
+    /* Отступ между кнопками*/
+    cursor: pointer;
+    /* Курсор при наведении на кнопку*/
+    text-decoration: none;
+    /* Убираем подчеркивание текста на кнопке*/
+}
+
+.btn3 {
+    background-image: url('images/Button2.png');
+    width: 185px;
+    height: 42px;
+}
+
+.btn4 {
+    width: 228px;
+    height: 42px;
+    background-image: url('images/Button4.png');
+}
+
+.btn5 {
+    background-image: url('images/Button3.png');
+    width: 292px;
+    height: 42px;
+}
+
+ul {
+    color: #556063;
+    font-size: 18px;
+}
+
+li {
+    margin-bottom: 2px;
+}
+
+.text10 {
+    color: #0C191F;
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 18px;
+}
+
+.container_info {
+    display: flex;
+    /* Используем Flexbox для размещения кнопок в строку */
+    flex-direction: row;
+    /* Размещаем кнопки в строку */
+    justify-content: center;
+    /* Центрируем кнопки по горизонтали */
+    margin-top: 20px;
+    /* Отступ сверху для контейнера с кнопками (можно изменить)*/
+    margin-bottom: 20px;
+    /* Отступ снизу для контейнера с кнопками (можно изменить)*/
+}
+
+.photo15 {
+    width: 570px;
+    height: 350px;
+    margin-left: 25px;
+}
+
+.photo16 {
+    width: 1170px;
+    height: 64px;
+    margin-left: 375px;
+}
+
+/*седьмой блок*/
+
+.photo17 {
+    width: 570px;
+    height: 403px;
+    margin-left: 20px;
+    margin-top: -110px;
+}
+
+.container_info1 {
+    display: flex;
+    /* Используем Flexbox для размещения кнопок в строку */
+    flex-direction: row;
+    /* Размещаем кнопки в строку */
+    justify-content: center;
+    /* Центрируем кнопки по горизонтали */
+    margin-top: 20px;
+    padding-bottom: 40px;
+    /* Отступ снизу для контейнера с кнопками (можно изменить)*/
+}
+
+.text12 {
+    color: #556063;
+    font-size: 18px;
+    margin-left: 35px;
+}
+
+.text11 {
+    padding-top: 40px;
+    margin-left: 380px;
+    color: #0C191F;
+}
+
+.container7 {
+    background-color: #E9EDED;
+}
+
+/*восьмой блок*/
+
+.text13 {
+    font-weight: bold;
+}
+
+.text14 {
+    color: #556063;
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+
+.text15 {
+    margin-top: 10px;
+}
+
+
+.btn7 {
+    background-image: url('images/ctrelki2.png');
+    width: 88px;
+    height: 34px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    margin-left: 280px;
+}
+
+.btn8 {
+    background-image: url('images/Button.png');
+    width: 342px;
+    height: 62px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    margin-top: 27px;
+    margin-left: 35px;
+}
+
+.container8 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 40px;
+    background-color: #F2F6F6;
+}
+
+
+.photo18 {
+    max-width: 40%;
+    width: 570px;
+    height: 543px;
+}
+
+.container9 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+}
+
+.container_ctrelki {
+    display: flex;
+    flex-direction: row;
+}
+
+.container_text,
+.container_cena1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.container_cena {
+    display: flex;
+    flex-direction: row;
+}
+
+.zagolovok {
+    margin-top: 0px;
+}
+
+/*девятый блок*/
+
+.container10 {
+    background-color: #E9EDED;
+}
+
+.text17 {
+    margin-top: 0px;
+}
+
+.btn9 {
+    background-image: url('images/ctrelki2.png');
+    width: 88px;
+    height: 34px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 385px;
+}
+
+.text16 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 360px;
+    padding-top: 80px;
+}
+
+.btn10 {
+    background-image: url('images/Button6.png');
+    width: 330px;
+    height: 62px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.container_card {
+    display: flex;
+    flex-direction: row;
+    margin-left: 360px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    margin-right: 35px;
+    align-items: center;
+    margin-bottom: 70px;
+}
+
+.cena {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline
+}
+
+.photo19 {
+    width: 370px;
+    height: 270px;
+}
+
+.text18 {
+    margin-left: -10%;
+}
+
+.text19 {
+    margin-left: -45%;
+}
+
+.text20 {
+    margin-left: -21%;
+}
+
+.cena1 {
+    margin-left: -41%;
+}
+
+/*десятый блок*/
+
+.bg1 {
+    width: 100%;
+    margin-bottom: 90px;
+}
+
+.text22,
+.text21 {
+    color: #ffffff;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.text22 {
+    font-size: 20px;
+}
+
+.container_zakaz {
+    display: flex;
+    flex-direction: column;
+    margin-top: -500px;
+    margin-left: 360px;
+}
+
+.btn11 {
+    background-image: url('images/Buttonn.png');
+    width: 270px;
+    height: 62px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    margin-top: 30px;
+    margin-bottom: 120px;
+}
+
+/**/
+
+.container12 {
+    padding: 40px;
+    /* Отступы внутри контейнера (можно изменить) */
+    background-color: #E9EDED;
+}
+
+.cont1 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 360px;
+}
+
+.text23 h1 {
+    text-align: center;
+    /* Центрируем заголовок */
+}
+
+.primer {
+    margin-top: 20px;
+    /* Отступ сверху для блока с примерами */
+}
+
+.hr-dotted {
+    border-top: 1px dotted #000;
+    /* Дотированная линия */
+    width: 364px;
+    /* Ширина линии */
+    margin: 5px 0;
+    /* Отступы сверху и снизу */
+}
+
+.cont_text {
+    display: flex;
+    flex-direction: row;
+    align-items: center
+}
+
+.text24 {
+    margin-top: 0px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+
+.text26{
+    margin-bottom: 0px;
+}
+
+.btn12{
+    background-image: url('images/Button8.png');
+    width: 195px;
+    height: 62px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn13{
+    background-image: url('images/ctrelki2.png');
+    border: none;
+    width: 88px;
+    height: 34px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.container_btn1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    justify-content: space-between;
+    align-items: baseline
+}
+
+.photo20{
+    margin-left: 40px;
+}
+
+.text25{
+    color: #556063;
+    font-weight: 400;
+}
+
+/**/
+
+.container13{
+    background-color: #F2F6F6;
+    margin-top: -22px;
+    padding-bottom: 40px;
+    margin-bottom: 0px;
+}
+
+.text27{
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 40px;
+}
+
+.cont2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 70%;
+    margin-left: 320px;
+}
+
+/**/
+
+.cont_quastion{
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+.btn14{
+    background-image: url('images/Button15.png');
+    border: none;
+    width: 172px;
+    height: 62px;
+    cursor: pointer;
+    text-decoration: none;
+    margin-top: 50px;
+}
+
+.quastion{
+    width: 970px;
+    height: 536px;
+}
+
+/**/
+
+.cardd{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.cardd1{
+    display: flex;
+    flex-direction: column;
+}
+
+.btn15{
+    background-image: url('images/001.png');
+    border: none;
+    width: 270px;
+    height: 62px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.image1{
+    width: 270px;
+    height: 36px;
+}
+
+.cardd1, .cardd2, .cardd3{
+    margin-right: 20px;
+}
+
+.text28{
+    margin-top: 0px;
+    color: #556063;
+    font-weight: 400;
+}
+
+/**/
+
+.bg2{
+    width: 100%;
+}
+
+/**/
+
+.container15{
+    background-color: #5199FF;
+    height: 345px;
+    width: 100%;
+    margin-top: 0px;
+    display: flex;
+    align-items: center;
+}
+
+.container_contact{
+    background-image: url('images/Pop.png');
+    width: 1200px;
+    height: 260px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 360px;
+    justify-content: space-evenly;
+}
+
+.text29{
+    color: #0C191F;
+    font-weight: 500;
+    margin-left: 50px;
+    margin-bottom: 0px;
+}
+
+.text30{
+    color: #556063;
+    font-weight: 400;
+    margin-left: 50px;
+    margin-top: 0px;
+}
+
+.cont_pole{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+    align-items: center
+}
+
+.btn16{
+    background-image: url('images/002.png');
+    border: none;
+    width: 250px;
+    height: 62px;
+    cursor: pointer;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+#name{
+    width: 410px;
+    height: 64px;
+    margin-left: 10px;
+    border: none;
+    border-bottom: 1px solid #556063;
+}
+
+/**/
+
+.carta{
+    width: 100%;
+    margin-bottom: 0px;
+    height: 630px;
+}
+
+.container_carta{
+    height: 630px;
+}
+
+/**/
+
+.container16{
+    background-color: #0C191F;
+    height: 86px;
+    padding-top: 20px;
+    margin-top: 0px;
+}
+
+.container_footer{
+    display: flex;
+    flex-direction: row;
+}
+
+.text31{
+    color: #F2F6F6;
+    font-size: 20px;
+    font-weight: 400;
+    opacity: 0.5;
+}
+
+.container_footer{
+    display: flex;
+    flex-direction: row;
+    margin-left: 70px;
+    justify-content: space-around;
+    margin-top: 0px;
+}
